@@ -18,6 +18,9 @@
 ### Search
 
 * [Graph search vs. tree search](http://stackoverflow.com/a/15281447)
+* [Alternate explanation of A* as reweighting paths](http://11011110.livejournal.com/135302.html) (*monotonic* is a synonym for *consistent*)
+
+<!--
 
 ### CSPs and game trees
 
@@ -35,3 +38,18 @@
 ### Bayes nets, HMMs, and ML
 
 * [Backpropagation notes](https://www.willamette.edu/~gorr/classes/cs449/backprop.html)
+
+-->
+
+*More content will appear here as the course progresses.*
+
+----
+
+### Just for fun :^)
+
+*Want to add something to this section? Email me your recommendations!*
+
+* [The Turing test](https://en.wikipedia.org/wiki/Turing_test) and [the Chinese room argument](https://en.wikipedia.org/wiki/Chinese_room)
+* [Superintelligence](https://en.wikipedia.org/wiki/Superintelligence), [existential risk](https://en.wikipedia.org/wiki/Existential_risk_from_artificial_general_intelligence), and [the paperclip maximizer](https://wiki.lesswrong.com/wiki/Paperclip_maximizer)
+* Recommended short stories: Forster's ["The Machine Stops"](http://archive.ncsa.illinois.edu/prajlich/forster.html) and Asimov's ["The Last Question"](http://multivax.com/last_question.html)
+* Recommended films: [A.I.](https://en.wikipedia.org/wiki/A.I._Artificial_Intelligence) and [Gattaca](http://www.imdb.com/title/tt0119177/)
