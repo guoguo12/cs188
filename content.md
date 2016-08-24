@@ -43,6 +43,7 @@
 
 *More content will appear here as the course progresses.*
 
+<!--
 ----
 
 ### Just for fun :^)
@@ -53,3 +54,4 @@
 * [Superintelligence](https://en.wikipedia.org/wiki/Superintelligence), [existential risk](https://en.wikipedia.org/wiki/Existential_risk_from_artificial_general_intelligence), and [the paperclip maximizer](https://wiki.lesswrong.com/wiki/Paperclip_maximizer)
 * Recommended short stories: Forster's ["The Machine Stops"](http://archive.ncsa.illinois.edu/prajlich/forster.html) and Asimov's ["The Last Question"](http://multivax.com/last_question.html)
 * Recommended films: [A.I.](https://en.wikipedia.org/wiki/A.I._Artificial_Intelligence) and [Gattaca](http://www.imdb.com/title/tt0119177/)
+-->
