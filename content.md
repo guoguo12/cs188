@@ -7,7 +7,7 @@
 ### About me 
 
 * Email: <a href="mailto:allenguo@berkeley.edu">allenguo@berkeley.edu</a>
-* Office hours: (TBA)
+* Office hours: Mondays 5-6pm at 531 Cory Hall
 * Anonymous feedback form: <a href="https://goo.gl/forms/3AAZMn7NO6vcJOcx1">link</a>
   * Please give me suggestions, comments, questions, etc.
 
