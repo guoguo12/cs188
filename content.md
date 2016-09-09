@@ -14,6 +14,7 @@
 ### General resources
 
 * [Overview of Python 2](https://learnxinyminutes.com/docs/python/)
+* [pdb Cheatsheet](https://raw.githubusercontent.com/nblock/pdb-cheatsheet/master/pdb-cheatsheet.png)
 
 ----
 
