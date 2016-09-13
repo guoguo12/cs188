@@ -23,13 +23,13 @@
 * [Graph search vs. tree search](http://stackoverflow.com/a/15281447)
 * [Alternate explanation of A* as reweighting paths](http://11011110.livejournal.com/135302.html) (*monotonic* is a synonym for *consistent*)
 
-<!--
 
 ### CSPs and game trees
 
 * [Alpha-beta pruning notes](http://web.cs.ucla.edu/~rosen/161/notes/alphabeta.html)
 * [Alpha-beta pruning animation/practice](http://www-inst.eecs.berkeley.edu/~cs61b/fa14/ta-materials/apps/ab_tree_practice/index.html)
 
+<!--
 ### MDPs and RL
 
 * [Concise, formal introduction to MDPs and POMDPs](http://rll.berkeley.edu/deeprlcourse/docs/ng-thesis.pdf) (chapters 1-2 only)
