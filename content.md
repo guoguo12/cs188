@@ -29,11 +29,11 @@
 * [Alpha-beta pruning notes](http://web.cs.ucla.edu/~rosen/161/notes/alphabeta.html)
 * [Alpha-beta pruning animation/practice](http://www-inst.eecs.berkeley.edu/~cs61b/fa14/ta-materials/apps/ab_tree_practice/index.html)
 
-<!--
 ### MDPs and RL
 
 * [Concise, formal introduction to MDPs and POMDPs](http://rll.berkeley.edu/deeprlcourse/docs/ng-thesis.pdf) (chapters 1-2 only)
 
+<!--
 ### Probability
 
 * [Intuition for Bayes' rule](https://betterexplained.com/articles/an-intuitive-and-short-explanation-of-bayes-theorem/)
@@ -41,6 +41,7 @@
 ### Bayes nets, HMMs, and ML
 
 * [Backpropagation notes](https://www.willamette.edu/~gorr/classes/cs449/backprop.html)
+* [Handouts from Stanford's ML course](http://cs229.stanford.edu/materials.html)
 
 -->
 
