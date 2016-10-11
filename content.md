@@ -33,7 +33,6 @@
 
 * [Concise, formal introduction to MDPs and POMDPs](http://rll.berkeley.edu/deeprlcourse/docs/ng-thesis.pdf) (chapters 1-2 only)
 
-<!--
 ### Probability
 
 * [Intuition for Bayes' rule](https://betterexplained.com/articles/an-intuitive-and-short-explanation-of-bayes-theorem/)
@@ -42,10 +41,6 @@
 
 * [Backpropagation notes](https://www.willamette.edu/~gorr/classes/cs449/backprop.html)
 * [Handouts from Stanford's ML course](http://cs229.stanford.edu/materials.html)
-
--->
-
-*More content will appear here as the course progresses.*
 
 <!--
 ----
